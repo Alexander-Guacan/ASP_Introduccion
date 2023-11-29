@@ -7,7 +7,7 @@
 
 ## Instalación
 
-1. Clonar repositorio `git clone <https://github.com/Alexander-Guacan/ASP_Introduccion.git` o descargarlo
+1. Clonar repositorio `git clone https://github.com/Alexander-Guacan/ASP_Introduccion.git` o descargarlo
 
     ![download_project](https://github.com/Alexander-Guacan/ASP_Introduccion/blob/main/assets/img/download_project.png?raw=true)
 
